@@ -1,6 +1,6 @@
 {
-  "name": "@whitespace/storybook-addon-html",
-  "version": "5.1.6",
+  "name": "@dgateles/storybook-addon-html",
+  "version": "5.2.1",
   "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
   "keywords": [
     "storybook-addon",
@@ -11,9 +11,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/whitespace-se/storybook-addon-html"
+    "url": "git+https://github.com/dgateles/storybook-addon-html.git"
   },
-  "author": "Whitespace <code@whitespace.se>",
+  "author": "Douglas",
   "license": "AGPL-3.0-or-later",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -63,7 +63,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-react": "^7.31.11",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.8.1",
+    "prettier": "^3.0.3",
     "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
